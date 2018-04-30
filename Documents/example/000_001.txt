@@ -1,0 +1,80 @@
+Chief Complaint:
+   24 Hour Events:
+   Last dose of Antibiotics:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.4
+C (97.6
+   HR: 103 (74 - 103) bpm
+   BP: 133/70(84) {111/50(66) - 152/85(101)} mmHg
+   RR: 28 (17 - 42) insp/min
+   O2sats: greater than 97%
+   Respiratory support
+   O2 Delivery Device: Face tent
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 350 (330 - 350) mL
+   PS : 12 cmH2O
+   RR (Spontaneous): 20
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   SpO2: 97%
+   ABG: ///30/
+   Ve: 6.7 L/min
+   Physical Examination
+   Gen: Lying comfortably in bed, weak, unable to sit up for exam,
+   Other labs: PT / PTT / INR:12.2/56.3/1.0, D-dimer:402 ng/mL, Ca++:7.8
+   mg/dL, Mg++:2.2 mg/dL, PO4:1.5 mg/dL
+   [**3367-12-19**]:
+   Source: Catheter
+   Color
+   Red
+   Appear
+   Cloudy
+   SpecGr
+   1.025
+   pH
+   6.0
+   Urobil
+   2
+   Bili
+   Mod
+   Leuk
+   Neg
+   Bld
+   Lg
+   Nitr
+   Pos
+   Prot
+   >300
+   Glu
+   Neg
+   Ket
+   >80
+   RBC
+   >50
+   WBC
+   [**6-17**]
+   Bact
+   Many
+   Yeast
+   None
+   Epi
+   0
+      MODERATE GROWTH OROPHARYNGEAL FLORA.
+      GRAM NEGATIVE ROD(S).    SPARSE GROWTH.
+   [3][**3367-2-13**]
+   Rapid Respiratory Viral Screen & Culture
+   Respiratory Viral Culture-FINAL; Rapid Respiratory Viral Antigen
+   Test-FINAL
+   Negative for RSV 

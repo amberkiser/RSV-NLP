@@ -1,0 +1,1793 @@
+Comments: ''
+Direction: forward
+Lex: synagis
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: season
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: are ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: be ruled out
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: backward
+Lex: being ruled out
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: backward
+Lex: can be ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: cannot be excluded
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: backward
+Lex: cannot totally be excluded
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: could be ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: free
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: has been ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: have been ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: is in the differential
+Regex: is\sin\sthe\sdifferential
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: backward
+Lex: is negative
+Regex: (is|was) negative
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: is not excluded
+Regex: (is|was|are|were)\snot\sexcluded
+Type: HYPOTHETICAL
+---
+Comments: 2/28/2013; added definitely; removed ed
+Direction: backward
+Lex: is not entirely excluded
+Regex: (is|was|are|were|does)\snot\s(entirely|totally|definitely|completely\s) excluded
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: is ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: is to be ruled out
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: backward
+Lex: is ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: might be ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: must be ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: not been ruled out
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: 3/22/2013
+Direction: backward
+Lex: not definitively seen
+Regex: not definitively (seen|visualized)
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: not excluded
+Regex: not\s(excluded|ruled\sout)
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: backward
+Lex: ought to be ruled out
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: backward
+Lex: protocol
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: backward
+Lex: should be ruled out
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: 4/29/2013
+Direction: backward
+Lex: suspected
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: unlikely
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: was ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: will be ruled out
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: 2/28/2013
+Direction: backward
+Lex: would not be expected
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: bidirectional
+Lex: appear
+Regex: (\bappear\b|\bappears\b)
+Type: HYPOTHETICAL
+---
+Comments: 2/28/2013
+Direction: bidirectional
+Lex: cannot be completely excluded
+Regex: cannot\sbe\s((entirely|completely|totally)\s)?(excluded|ruled out)
+Type: NEGATED
+---
+Comments: 2/28/2013
+Direction: bidirectional
+Lex: cannot be evaluated
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: equivocal
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: evaluation
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: 4/29/2013
+Direction: bidirectional
+Lex: incompletely evaluated
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: 4/29/2013
+Direction: bidirectional
+Lex: less likely
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: likely
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: may be ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: bidirectional
+Lex: no longer noted
+Regex: no longer (seen|noted|visualized)
+Type: NEGATED
+---
+Comments: 2/28/2013
+Direction: bidirectional
+Lex: possible
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: 3/21/2013
+Direction: bidirectional
+Lex: probable
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: 4/29/2013
+Direction: bidirectional
+Lex: questionable
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: bidirectional
+Lex: ruled out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: bidirectional
+Lex: suggest
+Regex: \bsuggest[a-z]+\b
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: versus
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: absence of
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: adequate to rule the patient out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: assessment for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: 4/29/2013
+Direction: forward
+Lex: atypical for
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: be ruled out for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: can be ruled out for
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: can rule the patient out
+Regex: can rule (her|him|the patient) out
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: cannot
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: cannot exclude
+Regex: cannot\sexclude
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: cannot see
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: cannot totally exclude
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: checked for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: concerning for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: could be ruled out for
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: declined
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: declines
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: denied
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: denies
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: deny
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: denying
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: did rule (the patient|him|her) out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: did rule out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: differential diagnosis would include
+Regex: differential\s((diagnosis|considerations)\s)?((would|could)\sinclud[a-z]*)?
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: evaluate for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: evaluation of
+Regex: evaluation\s(of|for)
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: did rule her out against
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: examination for
+Regex: (study|exam|examination) for
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: fails to reveal
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: free of
+Regex: ''
+Type: NEGATED
+---
+Comments: 2/28/2013
+Direction: forward
+Lex: higher sensitivity for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: 2/28/2013
+Direction: forward
+Lex: if there are
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: if there is concern for
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: is to be ruled out for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: is more sensitive
+Regex: is more sensitive
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: low probability
+Regex: ''
+Type: NEGATED
+---
+Comments: 2/28/2013
+Direction: forward
+Lex: may be related
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: may represent
+Regex: (may|might)\s(represent|reflect)
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: might be ruled out for
+Regex: ''
+Type: NEGATED
+---
+Comments: 3/22/2013
+Direction: forward
+Lex: mimicking
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: must be ruled out for
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: negative examination for
+Regex: negative (examination|study|exam|evaluation) for
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: negative for
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: never developed
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: never had
+Regex: ''
+Type: NEGATED
+---
+Comments: 2/28/2013; changed from probable to definite
+Direction: forward
+Lex: no abnormal
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no cause of
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no complaints of
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: no convincing
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no definite
+Regex: no[\s]*definite
+Type: NEGATED
+---
+Comments: 2/28/2013; added other probably consider simplifying re as XYZ
+Direction: forward
+Lex: no evidence of
+Regex: (no|without)\s((definite|other|definitive|secondary|indirect)\s)?((radiographic|sonographic|CT)\s)?evidence\s(of|for)
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no findings of
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no findings to indicate
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no new
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no obvious
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no other
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no sign of
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no significant
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no signs
+Regex: no sign(s)?
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no definite signs of
+Regex: (no|without) (definite|definitive|secondary|indirect) ((radiographic|sonographic|CT)\s)?signs\s(of|for)
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no suggestion
+Regex: ''
+Type: NEGATED
+---
+Comments: 2/14/2013
+Direction: forward
+Lex: no XYZ to suggest
+Regex: (\b(without|no)\b[\d\D\s]*to suggest)
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: nor
+Regex: \bnor\b
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not appreciate
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not associated with
+Regex: ''
+Type: NEGATED
+---
+Comments: 3/22/2013
+Direction: forward
+Lex: not clearly evident
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not complain of
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not demonstrate
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not exhibit
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not feel
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not had
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not have
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not know of
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: not known to have
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: not reveal
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not see
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not to be
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: nothing
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: ought to be ruled out for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: patient was not
+Regex: ''
+Type: NEGATED
+---
+Comments: 2/14/2013
+Direction: forward
+Lex: 'predispose to '
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: rather than
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: rule her out
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: rule him out
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: rule him out for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: rule out
+Regex: (r/o|rule out|\br o\b|r\.o\.|\bro\b)
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: rule out for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: rule patient out for
+Regex: rule (him|her|patient|the patient|subject) out for
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: rule the patient out
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: rule the patient out for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: 4/16/2013
+Direction: forward
+Lex: ruled her out against
+Regex: ruled\s(him|her|the subject|the patient|subject|patient)\sout( against| for)?
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: ruled out against
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: ruled out for
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: rules her out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: rules her out for
+Regex: rules\s(him|her)\sout\sfor
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: rules him out
+Regex: rules\s(him|her)\sout
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: rules him out for
+Regex: rules\s(him|her)\sout\sfor
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: rules out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: rules out for
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: rules the patient out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: rules the patient out for
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: should be ruled out for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: 3/22/2013
+Direction: forward
+Lex: simulating
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: study for detection
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: sufficient to rule out
+Regex: sufficient\sto\srule\s((her|him|the patient|the subject)\s)?out
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: suspicious
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: suspicous
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: test for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: to exclude
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: unable to adequately assess
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: unable to assess
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: unremarkable for
+Regex: ''
+Type: NEGATED
+---
+Comments: 3/22/2013
+Direction: forward
+Lex: warned of
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: were warned
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: what must be ruled out is
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: will be ruled out for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: with no
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: without
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: without difficulty
+Regex: ''
+Type: PSEUDONEG
+---
+Comments: ''
+Direction: forward
+Lex: without HYPOTHETICAL
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: without sign
+Regex: without sign(s)?
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: worrisome
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: '#NAME?'
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: terminate
+Lex: although
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: apart from
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a cause for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a cause of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a etiology for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a etiology of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a reason for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a reason of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a secondary cause for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a secondary cause of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a secondary etiology for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a secondary etiology of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a secondary origin for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a secondary origin of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a secondary reason for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a secondary reason of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a secondary source for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a secondary source of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a source for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as a source of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an cause for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an cause of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an etiology for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an etiology of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an origin for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an origin of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an reason for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an reason of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an secondary cause for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an secondary cause of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an secondary etiology for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an secondary etiology of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an secondary origin for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an secondary origin of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an secondary reason for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an secondary reason of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an secondary source for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an secondary source of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an source for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as an source of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the cause for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the cause of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the etiology for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the etiology of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the origin for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the origin of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the reason for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the reason of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the secondary cause for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the secondary cause of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the secondary etiology for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the secondary etiology of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the secondary origin for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the secondary origin of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the secondary reason for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the secondary reason of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the secondary source for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the secondary source of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the source for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: as the source of
+Regex: ''
+Type: CONJ
+---
+Comments: 2/14/2013
+Direction: terminate
+Lex: 'as there are '
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: aside from
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: but
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: cause for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: cause of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: causes for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: causes of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: etiology for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: etiology of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: except
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: however
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: involving
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: nevertheless
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: origin for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: origin of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: origins for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: origins of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: other possibilities of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: reason for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: reason of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: reasons for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: reasons of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: secondary to
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: source for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: source of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: sources for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: sources of
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: still
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: though
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: trigger event for
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: which
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: terminate
+Lex: yet
+Regex: ''
+Type: CONJ
+---
+Comments: ''
+Direction: forward
+Lex: (no|nothing) convincing
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: (the patient|him|her) was not
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: bidirectional
+Lex: as a suggestion
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: associated with
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: borderline
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: can rule out
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: can rule out against
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: can rule out for
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: cannot rule out
+Regex: cannot rule (the patient |him |her )?out
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: backward
+Lex: completely excluded
+Regex: (completely|entirely)? excluded
+Type: NEGATED
+---
+Comments: ''
+Direction: bidirectional
+Lex: construed as
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: could be
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: could not be ruled
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: could represent
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: equivocal
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: every HYPOTHETICAL
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: backward
+Lex: excluded
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: bidirectional
+Lex: exhibit
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: highly hesitant
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: HYPOTHETICAL
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: insufficient to rule (the patient|him|her) out for
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: no other (CT|radiographic|sonographic|MR|etc) evidence
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no secondary (CT|radiographic|sonographic|MR|etc) signs
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: no suspicious
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: not adequate to rule out
+Regex: not adequate to rule ((the patient|him|her)\s)?out
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: not likely
+Regex: ''
+Type: NEGATED
+---
+Comments: ''
+Direction: backward
+Lex: seen best
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: signs of
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: backward
+Lex: was not excluded
+Regex: (was|were) not excluded
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: if
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: possibly
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: decrease the likelihood
+Regex: decreas[a-z]+(\sthe)? likelihood
+Type: NEGATED
+---
+Comments: ''
+Direction: forward
+Lex: suspect
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex: likely represents
+Regex: likely (represents|representing)
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: bidirectional
+Lex: risk factor
+Regex: risk factor(s)?
+Type: NEGATED
+---
+Comments: ''
+Direction: bidirectional
+Lex: favor
+Regex: ''
+Type: HYPOTHETICAL
+---
+Comments: ''
+Direction: forward
+Lex:  'no'
+Regex: 
+Type: NEGATED

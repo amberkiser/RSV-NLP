@@ -1,0 +1,23 @@
+Comments: ''
+Direction: backward
+Lex: greater than
+Regex: ''
+Type: GREATER_THAN
+---
+Comments: ''
+Direction: backward
+Lex: less than
+Regex: ''
+Type: LESS_THAN
+---
+Comments: ''
+Direction: backward
+Lex: between
+Regex: ''
+Type: RANGE
+---
+Comments: ''
+Direction: bidirectional
+Lex: '-'
+Regex: ''
+Type: RANGE

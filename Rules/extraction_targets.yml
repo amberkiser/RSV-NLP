@@ -1,0 +1,83 @@
+Comments: ''
+Direction: ''
+Lex: ''
+Regex: '\b[greater than|less than|over]*[0-9]+[ |%|s|,]|[0-9]+[ |%]*-[0-9]+%*|between [0-9]+%{0,1} and [0-9]+%{0,1}'
+Type: VALUE
+---
+Comments: ''
+Direction: ''
+Lex: 'oxygen saturation'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'o2 saturation'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'oxygen saturations'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'o2 saturations'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'pulse oximetry'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'o2'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'spo2'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'sat'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'sats'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'saturating'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'oxygenation'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'o2sats'
+Regex: ''
+Type: OXYGEN_SATURATION
+---
+Comments: ''
+Direction: ''
+Lex: 'o2sat'
+Regex: ''
+Type: OXYGEN_SATURATION
